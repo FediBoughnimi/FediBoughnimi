@@ -6,6 +6,7 @@
 ###
 👋 Hello! I’m Fadi Boughnimi !<br>I’m a passionate software developer with expertise in web and mobile development. My work focuses on creating efficient, user-friendly applications and contributing to meaningful projects. I have experience with Angular, Spring Bot, and Android development, and I’m always eager to learn and explore new technologies. 🚀<br><br>✨ What I do:<br>Build modern web applications with Angular and Spring Boot.<br>Develop mobile solutions for Android using Kotlin.<br>Solve real-world problems with technology and innovation.<br>💡 Fun Fact: When I’m not coding, I enjoy reading, exploring new tools, and contributing to open-source projects.
 
+###
 
 # 💻 Tech Stack:
 
