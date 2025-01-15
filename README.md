@@ -88,10 +88,11 @@ When I’m not coding, I enjoy reading, exploring new tools, and contributing to
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FediBoughnimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FediBoughnimi&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=FediBoughnimi&theme=dark&hide_border=false" alt="GitHub Streak Stats" />-->
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FediBoughnimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
